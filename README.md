@@ -20,7 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/55eb4625-dfda-4b10-b1b1-9a8d80424fbb)
+1.) Once were in the front page of Osticket we will clcik on the admin pannel and begin. 
+
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/733df689-0293-43d2-995c-ab55975c5d8c)
+
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/e1339b65-e129-4ecf-81dd-a42123fe6b55)
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/8b21f93b-7554-45d9-a5a7-c0cc26f1fbe2)
 
