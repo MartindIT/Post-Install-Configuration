@@ -76,7 +76,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/1ea94c2d-9ae5-46eb-ba49-e862960e9e87)
 **9.) Admin Pannel -> Manage -> Help Topics**
 
-** When the end Users are filling out tickets they can choose whi need a subject 
+**When the end Users are filling out tickets they can choose what they need help with such as subjects and topics** 
+
+**In this case we added Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset for our help topics and this will be seen by Karen or as many of the fake Users we made.
+Once were done with this setup we can begin with the next part of Osticket.**
+
 
 
 
