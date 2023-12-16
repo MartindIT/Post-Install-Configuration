@@ -74,7 +74,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/9d2657e1-762b-4c70-b907-392acbe2b137)
 ![image](https://github.com/MartindIT/post-install-config/assets/151476834/1ea94c2d-9ae5-46eb-ba49-e862960e9e87)
+**9.) Admin Pannel -> Manage -> Help Topics**
 
+** When the end Users are filling out tickets they can choose whi need a subject 
 
 
 
